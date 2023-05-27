@@ -5,7 +5,7 @@ The Emotional Color Analyzer is a Python program that analyzes the emotional col
 ## Dependencies
 
 - Python 3.x
-- `nltk`
+- `spacy`
 - `textblob`
 
 ## Installation
