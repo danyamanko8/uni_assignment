@@ -5,7 +5,7 @@ The Emotional Color Analyzer is a Python program that analyzes the emotional col
 ## Dependencies
 
 - Python 3.x
-- `nltk`
+- `spacy`
 - `textblob`
 
 ## Installation
@@ -27,5 +27,5 @@ The Emotional Color Analyzer is a Python program that analyzes the emotional col
   Enter the text: This movie was terrible. The acting was bad, and the plot was confusing.
   Emotional Color: Negative
   
-  Enter the text: The weather is neither good nor bad. It's just average.
+  Enter the text: Kyiv is the capital of Ukraine.
   Emotional Color: Neutral
